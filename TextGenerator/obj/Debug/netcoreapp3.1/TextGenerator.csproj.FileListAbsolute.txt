@@ -1,0 +1,13 @@
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.exe
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.deps.json
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.runtimeconfig.json
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.runtimeconfig.dev.json
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.dll
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.pdb
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.csprojAssemblyReference.cache
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.AssemblyInfoInputs.cache
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.AssemblyInfo.cs
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.csproj.CoreCompileInputs.cache
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.dll
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.pdb
+D:\Users\vecto\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.genruntimeconfig.cache
